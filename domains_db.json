@@ -1,0 +1,30 @@
+[
+  {
+    "domain": "ettaloves.com",
+    "status": "pending",
+    "company_name": null,
+    "contact_url": null,
+    "last_updated": "2023-03-20T12:00:00"
+  },
+  {
+    "domain": "weblegs.co.uk",
+    "status": "pending",
+    "company_name": null,
+    "contact_url": null,
+    "last_updated": "2023-03-20T12:05:00"
+  },
+  {
+    "domain": "www.just-keepers.com",
+    "status": "pending",
+    "company_name": null,
+    "contact_url": null,
+    "last_updated": "2023-03-20T12:10:00"
+  },
+  {
+    "domain": "www.racketworld.co.uk",
+    "status": "pending",
+    "company_name": null,
+    "contact_url": null,
+    "last_updated": "2023-03-20T12:15:00"
+  }
+]

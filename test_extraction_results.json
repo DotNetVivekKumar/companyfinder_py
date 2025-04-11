@@ -1,0 +1,52 @@
+[
+  {
+    "domain": "example.com",
+    "status": "analyzed",
+    "company_name": "Internet Corporation for Assigned Names and Numbers"
+  },
+  {
+    "domain": "python.org",
+    "status": "analyzed",
+    "company_name": "Python Software Foundation"
+  },
+  {
+    "domain": "github.com",
+    "status": "analyzed",
+    "company_name": "GitHub Inc"
+  },
+  {
+    "domain": "stackoverflow.com",
+    "status": "analyzed",
+    "company_name": "Stack Exchange Inc"
+  },
+  {
+    "domain": "wordpress.org",
+    "status": "analyzed",
+    "company_name": "WordPress Foundation"
+  },
+  {
+    "domain": "apache.org",
+    "status": "analyzed",
+    "company_name": "The Apache Software Foundation"
+  },
+  {
+    "domain": "mozilla.org",
+    "status": "analyzed",
+    "company_name": "Mozilla Corporation"
+  },
+  {
+    "domain": "jquery.com",
+    "status": "analyzed",
+    "company_name": "JS Foundation"
+  },
+  {
+    "domain": "w3.org",
+    "status": "analyzed",
+    "company_name": "World Wide Web Consortium"
+  },
+  {
+    "domain": "gnu.org",
+    "status": "analyzed",
+    "company_name": "Free Software Foundation"
+  }
+]
